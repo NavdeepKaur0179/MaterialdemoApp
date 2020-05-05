@@ -1,5 +1,5 @@
 # MaterialdemoApp
-# MaterialApp
+![alt text](images/Screenshot.jpg)
 
 This app Demonstrate the use of TypedArray to initialize image resources array.
 ArrayList of Objects passed to adapter was made from array and array-string defined in string.xml
@@ -32,5 +32,6 @@ The challenge resolved was saving the state of arraylist(current List displayed)
         }else {
             initializeData();
         }
+        
         
         
